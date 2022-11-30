@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">test3</string>
+    <string name="log">Введите логин</string>
+    <string name="pass">Введите пароль</string>
+</resources>
